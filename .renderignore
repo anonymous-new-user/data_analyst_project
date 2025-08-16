@@ -1,0 +1,6 @@
+Dockerfile
+DEPLOYMENT_GUIDE.md
+entrypoint.sh
+*.log
+pycache/
+.env
